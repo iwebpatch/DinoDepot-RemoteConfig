@@ -479,7 +479,7 @@
             ]
         },
         {
-            "dinoType": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP_Aberrant.Otter_Character_BP_Aberrant",
+            "dinoType": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
